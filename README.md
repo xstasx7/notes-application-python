@@ -1,4 +1,5 @@
-    Добавление заметки:
+    
+Добавление заметки:
 python notes.py add --title "новая заметка" --body "тело новой заметки" --format json
     Редактирование заметки:
 python notes.py edit --id 1 --title "обновленный заголовок" --body "обновленное тело заметки" --format json
