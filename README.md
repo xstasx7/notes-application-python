@@ -8,3 +8,5 @@ python notes.py delete --id 1 --format json
 python notes.py view --format json
     Просмотр заметок с фильтрацией по дате:
 python notes.py view --filter-date "2024-05-18" --format json
+
+
